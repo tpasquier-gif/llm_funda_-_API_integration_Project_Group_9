@@ -20,8 +20,8 @@ an evaluation report, prompt-injection guardrails and a cost per 1,000 calls.
 | | | |
 | | | |
 | | | |
-| | | |
-| CACARIE Robin|rcacarie-png|boss|
+| SIMOND-CHARBINAT Inès |ins64|?|
+| CACARIE Robin |rcacarie-png|boss|
 
 ## How this repo grows
 
