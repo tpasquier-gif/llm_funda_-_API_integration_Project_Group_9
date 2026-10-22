@@ -18,7 +18,7 @@ an evaluation report, prompt-injection guardrails and a cost per 1,000 calls.
 | Name | GitHub | Role |
 |---|---|---|
 | | | |
-| | | |
+|HERVY | LELIA| BOSS'BOSS'BOSS|
 | PASQUIER--GUILARD|tpasquier-gif |Boss' Boss || | |
 | SIMOND-CHARBINAT Inès |ins64|?|
 | CACARIE Robin |rcacarie-png|boss|
