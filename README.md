@@ -19,7 +19,7 @@ an evaluation report, prompt-injection guardrails and a cost per 1,000 calls.
 |---|---|---|
 | | | |
 | | | |
-| | | |
+| PASQUIER--GUILARD|tpasquier-gif |Boss' Boss || | |
 | SIMOND-CHARBINAT Inès |ins64|?|
 | CACARIE Robin |rcacarie-png|boss|
 
