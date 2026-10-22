@@ -18,9 +18,9 @@ an evaluation report, prompt-injection guardrails and a cost per 1,000 calls.
 | Name | GitHub | Role |
 |---|---|---|
 | CHOLET Philomène|Philomenechlt | Clown|
-|HERVY | lhervy| BOSS'BOSS'BOSS|
-| PASQUIER--GUILARD|tpasquier-gif |Boss' Boss || | |
-| SIMOND-CHARBINAT Inès |ins64|?|
+|HERVY Lélia| lhervy| BOSS'BOSS'BOSS|
+| PASQUIER--GUILARD Thomas |tpasquier-gif |Boss' Boss || | |
+| SIMOND-CHARBINAT Inès |ins64|clown's clown|
 | CACARIE Robin |rcacarie-png|boss|
 
 ## How this repo grows
