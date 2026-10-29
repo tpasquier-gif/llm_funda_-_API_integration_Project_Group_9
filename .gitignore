@@ -21,3 +21,6 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Test caches
+.pytest_cache/
