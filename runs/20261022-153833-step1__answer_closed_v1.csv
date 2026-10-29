@@ -1,0 +1,25 @@
+case_id,question,expected_answerable,expected_facts,answer,right,input_tokens,output_tokens,latency_s
+Q01,How many days do I have to return an item?,yes,21,"At Albert's Marketplace, you have **30 days** from the date of purchase to return an item. The product must be unused and in its original packaging to qualify for a return. Please contact our customer service team if you need assistance with your return.",False,54,56,1.361
+Q02,How much does it cost to return an item I simply changed my mind about?,yes,3.95,"# Returns Policy for Change of Mind
+
+At Albert's Marketplace, returns for change of mind are **free** – you won't be charged a return shipping fee. You simply need to initiate the return within our standard return window (usually 14-30 days depending on your country), and we'll provide you with a prepaid return label or instructions for sending the item back.
+
+Is there anything else you'd like to know about our returns process?",False,59,97,1.81
+Q03,Can I return a mascara I have opened?,yes,defective,"Yes, you can return an opened mascara to Albert's Marketplace. However, please note that opened or used cosmetic products may be subject to our standard return policy conditions. I recommend checking the specific return terms on your order or contacting our customer service team to confirm the exact conditions for your mascara return.",False,53,67,1.543
+Q04,My parcel is 3 days past its estimated delivery date. What can I do?,yes,cancel,"I'm sorry to hear your parcel is delayed. Here's what you can do:
+
+1. **Check your tracking information** - Log into your account and verify the current status of your shipment, as there may be updates about a new delivery date.
+
+2. **Contact our customer support team** - Reach out to us through our website's contact form or customer service chat, and provide your order number so we can investigate the delay and help resolve it.
+
+3. **Depending on the outcome** - If the parcel is lost, we can help arrange a replacement or refund.
+
+We apologize for the inconvenience and will do our best to help you quickly!",False,62,146,2.386
+Q05,Which carriers deliver to Belgium?,yes,Albatros|Swift Otter,"# Delivery Carriers to Belgium
+
+We deliver to Belgium through several reliable carriers including **DPD, bpost, and GLS**, depending on your location and order size. You'll see the available delivery options at checkout, where you can select your preferred carrier and delivery speed. Most orders arrive within 3-5 business days.",False,49,73,1.603
+Q06,Is delivery free for a €30 order?,yes,35|4.90,"Thank you for your question! At Albert's Marketplace, free delivery typically applies to orders above a certain threshold (usually €50+), so a €30 order would likely incur a delivery fee. However, I recommend checking the current delivery terms during checkout or contacting our support team for the exact details, as promotions and conditions may vary.",False,53,75,2.305
+Q07,Can I pay by bank transfer?,yes,card,"Yes, you can pay by bank transfer at Albert's Marketplace! Bank transfer is one of our accepted payment methods. Please note that your order will be processed once we receive and confirm your payment.",False,50,43,1.302
+Q08,How long after I close my account is my data deleted?,yes,30 days,"Thank you for your question. According to our data protection policy, your personal data is typically deleted within 30 days after you close your account, though some data may be retained longer if required by law or for legitimate business purposes. For specific details about your account closure and data deletion timeline, please contact our customer support team directly, and they'll be happy to help.",True,55,78,1.87
+Q09,What commission does a seller pay on each sale?,yes,12%,"I appreciate your question, but I don't have specific information about Albert's Marketplace's seller commission rates in my current knowledge base. For accurate details about commission fees, I'd recommend contacting our seller support team directly or checking the seller agreement section on our website. They'll be able to provide you with complete and up-to-date pricing information.",False,53,75,1.393
+Q10,Is the KAO Nivea UV sunscreen gel suitable for oily skin?,yes,oily,"Yes, the KAO Nivea UV sunscreen gel is generally suitable for oily skin. It has a lightweight, fast-absorbing gel texture that leaves a matte finish rather than a greasy residue, making it an excellent choice for those with oily or combination skin types. However, I'd recommend checking the specific product description on our website or doing a patch test first to ensure it works well with your individual skin.",True,61,93,1.69
