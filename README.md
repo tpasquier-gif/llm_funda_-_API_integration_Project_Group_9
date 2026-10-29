@@ -18,7 +18,7 @@ an evaluation report, prompt-injection guardrails and a cost per 1,000 calls.
 | Name | GitHub | Role |
 |---|---|---|
 | CHOLET Philomène| Philomenechlt | Clown|
-|HERVY Lélia | lhervy| BOSS'BOSS'BOSS|
+|HERVY Lélia | lhervy| SNOWFLAKE|
 | PASQUIER--GUILARD Thomas|tpasquier-gif |Boss' Boss || | |
 | SIMOND-CHARBINAT Inès |ins64|to be defined|
 | CACARIE Robin |rcacarie-png|boss|
