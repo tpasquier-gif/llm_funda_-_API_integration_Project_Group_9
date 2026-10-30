@@ -1,6 +1,6 @@
 # Albert's Marketplace LLM component: group 9
 
-**Our component: a help-centre answerer with retrieval** (deployment recommendation and all figures: [`docs/component.md`](docs/component.md); oral preparation: [`docs/defence-notes.md`](docs/defence-notes.md)). It answers a customer's
+**Our component: a help-centre answerer with retrieval** (deployment recommendation and all figures: [`docs/component.md`](docs/component.md); oral preparation: [`docs/defence-notes.md`](docs/defence-notes.md); **slides: [`slides/`](slides/)**). It answers a customer's
 question from the company's help centre, cites the passages it used, says
 "I don't know" when the help centre does not say, and never repeats what a
 seller's page claims about policies.
@@ -99,6 +99,7 @@ the six PDFs (checked against the release's CHECKSUMS) and the embedding model
 ## Layout
 
 ```
+slides/            the oral presentation: the PDF, and the animated deck (open it in a browser)
 docs/
   component.md     the task, the users, the deployment recommendation
   decisions/       one record per decision
