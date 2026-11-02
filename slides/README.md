@@ -5,6 +5,10 @@ Albert's Marketplace: each product page is one step of the component.
 
 [`Albert-Marketplace-Groupe9-RAG.pdf`](Albert-Marketplace-Groupe9-RAG.pdf): the 13 slides, one page per screen, 1920×1080.
 
+Speaker scripts (slide on the left, what to say on the right, A4 landscape):
+[`Albert-Marketplace-Groupe9-Script-FR.pdf`](Albert-Marketplace-Groupe9-Script-FR.pdf) (français) and
+[`Albert-Marketplace-Groupe9-Script-EN.pdf`](Albert-Marketplace-Groupe9-Script-EN.pdf) (English).
+
 Every figure on the slides comes from [`runs/`](../runs) and
 [`docs/component.md`](../docs/component.md) (claude-haiku-4-5, 30 test questions, 3 runs
 per strategy).

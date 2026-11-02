@@ -26,7 +26,7 @@ an evaluation report, prompt-injection guardrails and a cost per 1,000 calls.
 | HERVY Lélia | [@lhervy](https://github.com/lhervy) | BOSS'BOSS'BOSS |
 | PASQUIER--GUILARD Thomas | [@tpasquier-gif](https://github.com/tpasquier-gif) | Boss' Boss |
 | SIMOND-CHARBINAT Inès | [@ins64](https://github.com/ins64) | to be defined |
-| CACARIE Robin | [@rcacarie-png](https://github.com/rcacarie-png) | boss |
+| CACARIÉ Robin | [@rcacarie-png](https://github.com/rcacarie-png) | boss |
 
 ## How this repo grows
 
