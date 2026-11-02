@@ -2,7 +2,7 @@
 
 - **Status:** accepted
 - **Date:** 2026-10-29 (records the choice made for the step-4 run of 2026-10-22)
-- **Author:** Robin Cacarie
+- **Author:** Robin Cacarié
 - **Lesson:** L04
 
 ## Context
