@@ -99,7 +99,7 @@ the six PDFs (checked against the release's CHECKSUMS) and the embedding model
 ## Layout
 
 ```
-slides/            the oral presentation: the PDF, and the animated deck (open it in a browser)
+slides/            the oral presentation (PDF)
 docs/
   component.md     the task, the users, the deployment recommendation
   decisions/       one record per decision
