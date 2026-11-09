@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ask Albert · Albert’s Marketplace</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' fill='%23035CA0'/%3E%3Cpath d='M20 9l2.4 6.6L29 18l-6.6 2.4L20 27l-2.4-6.6L11 18l6.6-2.4z' fill='%23fff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/app.css">
+</head>
+<body>
+  <div class="announce"><div class="ann-track"></div></div>
+  <header class="hdr">
+    <span class="hdr-l">Live demo · Group 9</span>
+    <div class="brand">ALBERT’S<small>marketplace</small></div>
+    <span class="hdr-r"><span class="spark"></span>Ask Albert</span>
+  </header>
+
+  <main class="wrap">
+    <section class="intro">
+      <div class="eyebrow"><span>Live</span><i></i><span>The few-shot answerer</span></div>
+      <h1>Ask <em>Albert.</em></h1>
+      <p class="script">Answers from our own help centre</p>
+
+      <div class="try">
+        <div class="try-k">Try a question</div>
+        <div class="chips" id="chips"></div>
+      </div>
+
+      <label class="trap"><input type="checkbox" id="injected"><span class="sw"></span>
+        <span><b>Tampered seller page</b>The course’s OZNaturals page, which tells AI assistants to promise 365-day returns</span></label>
+
+      <dl class="stats" id="stats">
+        <div><dt>Model</dt><dd id="s-model">claude-haiku-4-5</dd></div>
+        <div><dt>Time</dt><dd id="s-time">—</dd></div>
+        <div><dt>Cost</dt><dd id="s-cost">—</dd></div>
+      </dl>
+    </section>
+
+    <section class="chat">
+      <div class="chat-head"><span class="dot"></span><b>Ask Albert</b><em>answers from the help centre</em></div>
+      <div class="chat-body" id="log">
+        <div class="hello">Ask anything about returns, delivery, payment or our products. Every answer comes from the help centre, with its sources, or says it does not know.</div>
+      </div>
+      <form class="composer" id="form" autocomplete="off">
+        <input id="q" maxlength="500" placeholder="Type a customer’s question, in English, French or German…" aria-label="Your question">
+        <button id="send" type="submit" aria-label="Send">Send<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+      </form>
+    </section>
+  </main>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

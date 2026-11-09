@@ -107,7 +107,9 @@ prompts/           every prompt, versioned, from L01
 evals/             the 30 test questions, the retrieval sweep, the scripts that run, judge and score
 runs/              every call (calls.csv), every run's predictions, summary.csv
 src/               data.py (the PDFs + checksums), retrieve.py (chunks, embeddings, FAISS), schema.py
-                   (the answer and its rules), prompts.py, llm.py (the only API caller)
+                   (the answer and its rules), prompts.py, llm.py (the only API caller), ask.py (the live
+                   demo in the terminal), web.py (the same demo in a web page, on this computer only)
+web/               Ask Albert, the demo's page (python -m src.web, then http://localhost:8000)
 tests/             the module's guarantees, on a fake API
 ```
 
