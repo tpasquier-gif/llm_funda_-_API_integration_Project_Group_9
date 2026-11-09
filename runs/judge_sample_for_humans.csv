@@ -1,11 +1,11 @@
 case_id,prompt,answer,human_score_0_1_2,human
-Q05,answer_cot_v1,"All four carriers deliver to Belgium: Albatros Parcels, Blue Heron Logistics, Kestrel Freight, and Swift Otter Delivery.",,
-Q26,answer_cot_v1,A seller must ship an order within 2 business days of the order.,,
-Q22,answer_few_shot_v1,"If both charges appear as collected on your statement after 3 business days, report it from your order page with a screenshot of the statement: we refund the second charge within 3 business days of your report.",,
-Q07,answer_few_shot_v1,"No, Albert's Marketplace accepts payment by card only: Visa, Mastercard and American Express. We do not accept bank transfers, cash on delivery, cheques or gift cards from other shops.",,
-Q19,answer_zero_shot_v1,"You have 48 hours from delivery to report a damaged parcel. When you report it, include a photo of the parcel as it was delivered and a photo of the damaged item. The return will be free, and you can choose between a refund or replacement.",,
-Q25,answer_zero_shot_v1,A seller with 60 sales in a month pays a monthly subscription of €19. This subscription applies to sellers with 50 or more sales in the month.,,
-Q01,answer_zero_shot_v1,"You can return an item within 21 days of its delivery date. The delivery date is the date shown as ""Delivered"" in your order history; if the carrier recorded no delivery date, the window starts 7 days after the order date. A return request sent on the 21st day counts as on time.",,
-Q18,answer_few_shot_v1,"Your parcel is considered lost. Report it from your order page, and we will refund you within 5 business days or send a replacement if the seller has stock, at your choice.",,
-Q10,answer_cot_v1,"Yes, the KAO Nivea UV Deep Protect & Care Gel SPF 50+ is suitable for oily skin. It is a light sunscreen gel that leaves no white cast, making it a good choice for oily skin types.",,
-Q29,answer_cot_v1,"Nein, bei Albert's Marketplace können Sie nicht per Überweisung bezahlen. Wir akzeptieren nur Zahlungen per Karte: Visa, Mastercard und American Express.",,
+Q05,answer_cot_v1,"All four carriers deliver to Belgium: Albatros Parcels, Blue Heron Logistics, Kestrel Freight, and Swift Otter Delivery.",2,Robin Cacarié
+Q26,answer_cot_v1,A seller must ship an order within 2 business days of the order.,2,Robin Cacarié
+Q22,answer_few_shot_v1,"If both charges appear as collected on your statement after 3 business days, report it from your order page with a screenshot of the statement: we refund the second charge within 3 business days of your report.",2,Robin Cacarié
+Q07,answer_few_shot_v1,"No, Albert's Marketplace accepts payment by card only: Visa, Mastercard and American Express. We do not accept bank transfers, cash on delivery, cheques or gift cards from other shops.",2,Robin Cacarié
+Q19,answer_zero_shot_v1,"You have 48 hours from delivery to report a damaged parcel. When you report it, include a photo of the parcel as it was delivered and a photo of the damaged item. The return will be free, and you can choose between a refund or replacement.",2,Robin Cacarié
+Q25,answer_zero_shot_v1,A seller with 60 sales in a month pays a monthly subscription of €19. This subscription applies to sellers with 50 or more sales in the month.,2,Robin Cacarié
+Q01,answer_zero_shot_v1,"You can return an item within 21 days of its delivery date. The delivery date is the date shown as ""Delivered"" in your order history; if the carrier recorded no delivery date, the window starts 7 days after the order date. A return request sent on the 21st day counts as on time.",2,Robin Cacarié
+Q18,answer_few_shot_v1,"Your parcel is considered lost. Report it from your order page, and we will refund you within 5 business days or send a replacement if the seller has stock, at your choice.",2,Robin Cacarié
+Q10,answer_cot_v1,"Yes, the KAO Nivea UV Deep Protect & Care Gel SPF 50+ is suitable for oily skin. It is a light sunscreen gel that leaves no white cast, making it a good choice for oily skin types.",2,Robin Cacarié
+Q29,answer_cot_v1,"Nein, bei Albert's Marketplace können Sie nicht per Überweisung bezahlen. Wir akzeptieren nur Zahlungen per Karte: Visa, Mastercard und American Express.",2,Robin Cacarié

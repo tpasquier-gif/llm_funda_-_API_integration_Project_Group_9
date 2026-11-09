@@ -94,11 +94,14 @@ same error count as chain-of-thought, but fully faithful and cheaper.
 - **Faithfulness is now a number we can re-measure** in one command after any
   change of prompt, model or retrieval. It costs about a cent per answer
   (two judgements), so a full 3-strategy run is under a dollar.
-- **The judge is not yet checked against humans.** Ten of its judgements were
-  drawn at random (seed 9) into `runs/judge_sample_for_humans.csv` for a member
-  to score blind; **that column is still empty**. Until it is filled, R4 rests
-  on the judge alone. If a member disagrees with more than a couple of the ten,
-  we stop quoting R4 as a measurement and look at where the judge goes wrong.
+- **The judge, checked against a human (2026-11-09):** ten of its judgements,
+  drawn at random (seed 9) into `runs/judge_sample_for_humans.csv`, were scored
+  by Robin Cacarié against the passages each answer cites. **He agreed with the
+  judge on 10 of 10** (all ten scored 2). Two limits: the check was not blind
+  (he had seen that an AI review of the same ten agreed with the judge), and
+  all ten were judged 2, so it says nothing yet about how the judge scores a
+  weak answer. If a later check disagrees with more than a couple of ten, we
+  stop quoting R4 as a measurement and look at where the judge goes wrong.
 - **A judge score is a model's output:** it varies from run to run like any
   other. We ran the judge once; the 3/82 position disagreements are our only
   measure of its noise. Small gaps (1.98 against 2.00) are not differences.
